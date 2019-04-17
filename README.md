@@ -28,7 +28,7 @@ NOTE: It is critical that you keep the password above safe. Any data encrypted w
 
 This software is intended to be a proof of concept and should not be considered production ready. It is provided as is and the author takes no responsibility for data loss or corruption as a result of using this software.
 
-## Software Licence
+## Licence
 
 Apache 2.0 licence.
 
