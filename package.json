@@ -1,0 +1,30 @@
+{
+  "name": "web-encrypted-storage",
+  "version": "0.0.1",
+  "description": "A package which leverages the web storage and crypto apis to show how they can be used in conjunction.",
+  "main": "dist/index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/StephenCoady/web-encrypted-storage.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/StephenCoady/web-encrypted-storage/issues"
+  },
+  "homepage": "https://github.com/StephenCoady/web-encrypted-storage#readme",
+  "devDependencies": {
+    "ts-node": "8.0.3",
+    "tslint": "5.15.0",
+    "typescript": "3.4.1"
+  },
+  "dependencies": {
+    "@types/node": "^11.13.4"
+  }
+}
